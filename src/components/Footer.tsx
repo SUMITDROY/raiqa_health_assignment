@@ -28,7 +28,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://github.com/SUMITDROY"
+            href="https://github.com/SUMITDROY/raiqa_health_assignment"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-white/5 px-4 py-2 rounded-xl backdrop-blur-sm border border-white/10 shadow-md hover:shadow-[0_0_12px_2px_rgba(255,215,0,0.5)] transition-all duration-300 hover:border-yellow-400 hover:text-yellow-300"
